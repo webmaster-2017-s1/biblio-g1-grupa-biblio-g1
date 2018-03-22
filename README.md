@@ -7,7 +7,7 @@ Po uzupełnieniu dokumentu usuń powyższe oraz niniejszy akapit
 i zatwierdź zmiany używając komentarza "Aktualizacja README.md".
 
 # [Wpisz nazwę projektu]
-Szablon dla serwisu [wpisz nazwę] w Bootstrap 4
+Szablon wykorzystujący framework Bootstrap v. 4 dla serwisu [wpisz nazwę]
 
 ## Użycie
 [Tu umieść opis ewentualnych kroków wymaganych do wykorzystania projektu]

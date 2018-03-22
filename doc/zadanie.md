@@ -1,6 +1,6 @@
 # Zadanie
 
-Przygotuj szablon(y) wykorzystujące framework Bootstrap v. 4 dla serwisu
+Przygotuj szablon(y) wykorzystując framework Bootstrap v. 4 dla serwisu
 wybranego z poniższej listy:
 
 * ecg.vot.pl – serwis edukacyjno-informacyjny
@@ -12,7 +12,7 @@ wybranego z poniższej listy:
   ogłoszeń lub inny, przeznaczony do zamieszczania bieżących (dziennych) informacji
   dla nauczycieli i uczniów, np. zastępstwa, odwołane lekcje, zamiany sal, wydarzenia
   specjalne (próbna matura, konkursy itp.)
-* inny serwis zaproponowany przez ucznia lub zespół
+* inny serwis zaproponowany przez zespół
 
 ## Założenia dodatkowe
 
