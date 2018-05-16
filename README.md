@@ -10,4 +10,4 @@ i zatwierdź zmiany używając komentarza "Aktualizacja README.md".
 Szablon wykorzystujący framework Bootstrap v. 4 dla serwisu [wpisz nazwę]
 
 ## Użycie
-[Tu umieść opis ewentualnych kroków wymaganych do wykorzystania projektu]
+[Tu umieść opis ewentualnych kroków wymaganych do wykorzystania szablonu]
