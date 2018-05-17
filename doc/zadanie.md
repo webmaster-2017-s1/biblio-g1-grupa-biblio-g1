@@ -56,3 +56,8 @@ wybranego z poniższej listy:
 1. Dodawaj kolejne etapy pracy do lokalnego repozytorium (`git add`).
 1. Zatwierdzaj postępy z odpowiednim komentarzem (`git commit -m "komentarz"`).
 1. Wysyłaj wykonane zadania do repozytorium zdalnego (`git push`) lub twórz `pull request`.
+
+## Dokumentacja
+
+1. [Praca w publicznym projekcie (m. in. `pull request`)](https://git-scm.com/book/pl/v1/Rozproszony-Git-Wgrywanie-zmian-do-projektu#Publiczny-ma%C5%82y-projekt)
+1. [Creating pull request](https://help.github.com/articles/creating-a-pull-request/)
