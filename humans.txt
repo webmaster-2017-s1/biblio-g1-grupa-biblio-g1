@@ -4,6 +4,10 @@
 # TEAM
 
     <name> -- <role> -- <email>
+    Hubert Gajewski
+    Piotr Bogdański
+    Paweł Sroczyński
+    Dawid Gładowkski  
 
 # THANKS
 
