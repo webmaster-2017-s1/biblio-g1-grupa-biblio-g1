@@ -4,10 +4,6 @@
 color: rgb(68, 68, 68); szary
 color: rgb(238, 55, 51); czerwony
 */
-.container-fluid {
-  padding-left: 0;
-  padding-right: 0;
-}
 
 .navbar{
   background-color: rgb(52, 58, 64);
@@ -18,5 +14,4 @@ color: rgb(238, 55, 51); czerwony
 .nav-item {
   font-size: 25px;
   font-weight: bold;
-  text-align: center;
 }
