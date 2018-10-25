@@ -1,0 +1,22 @@
+/* Twoje style */
+
+/*kolory do użycia:
+color: rgb(68, 68, 68); szary
+color: rgb(238, 55, 51); czerwony
+*/
+
+.container {
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+}
+
+.navbar{
+  background-color: rgb(52, 58, 64);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.nav-item {
+  font-size: 25px;
+  font-weight: bold;
+}
